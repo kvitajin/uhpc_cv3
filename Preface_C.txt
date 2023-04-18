@@ -1,0 +1,35 @@
+ 1 Preface to the first edition 
+ 2
+19 This book is meant to help the reader learn how to program in C. It contains 
+20 a tutorial introduction toget new users started as soon as possible, separate 
+21 chapters on each major feature, and a reference manual. Most of the treatment 
+22 is based on reading, writing and revising examples, rather than on 
+23 merestatements of rules. For the most part, the examples are complete, real 
+24 programs rather than isolated fragments. All examples have been tested 
+25 directly from the text, which is inmachine-readable form. Besides showing how 
+26 to make effective use of the language, we have also tried where possible to 
+27 illustrate useful algorithms and principles of good style and sound design. 
+28
+29 The book is not an introductory programming manual; it assumes some 
+30 familiarity with basic programming concepts like variables, assignment 
+31 statements, loops, and functions. Nonetheless, a novice programmer should be 
+32 able to read along and pick up the language, although access to more 
+33 knowledgeable colleague will help. 
+34
+35 In our experience, C has proven to be apleasant, expressive and versatile 
+36 language for a wide variety of programs. It is easy to learn, and it wears 
+37 well as on's experience with it grows. We hope that this book will help you 
+38 to use it well. 
+39
+40 The thoughtful criticisms and suggestions of many friends and colleagues have 
+41 added greatly  to this book and to our pleasure in writing it. In particular, 
+42 Mike Bianchi, Jim Blue, Stu Feldman, Doug McIlroy Bill Roome, Bob Rosinand 
+43 Larry Rosler all read multiple volumes with care. We are also indebted to Al 
+44 Aho, Steve Bourne, Dan Dvorak, Chuck Haley, Debbie Haley, Marion Harris, Rick 
+45 Holt, Steve Johnson, John Mashey, Bob Mitze, Ralph Muha, Peter Nelson, Elliot 
+46 Pinson, Bill Plauger, Jerry Spivack, Ken Thompson, and Peter Weinberger for 
+47 helpful comments at various stages, and to Mile Lesk and Joe Ossanna for 
+48 invaluable assistance with typesetting.
+49
+50 	Brian W. Kernighan
+51 	Dennis M. Ritchie 
